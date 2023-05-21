@@ -1,0 +1,16 @@
+body {
+    background-image: url("../Pictures/Sehrim/ozgecmisp.jpg");
+}
+.navbar {
+    border-bottom: 3px #ff9101 solid;
+} 
+.my-table{
+    background-color: rgba(0, 0,0, 0.0) !important;
+    align-content: center;
+
+
+}
+.nav-link:hover{
+    color: whitesmoke!important;
+
+}
